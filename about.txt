@@ -1,0 +1,1 @@
+New JaCoCo Calculator test project.
